@@ -86,11 +86,9 @@ Install the following before running the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hospital-appointment-system.git
+git clone https://github.com/Satyajit799/hospital-appointment-system.git
 cd hospital-appointment-system
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Set Up the Backend
 
