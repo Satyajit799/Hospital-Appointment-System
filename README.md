@@ -33,7 +33,7 @@ The Hospital Appointment Management System is built to streamline appointment sc
 
 ### Database
 - MongoDB
-- Mongoose, if used in the project
+- Mongoose
 
 ### Development Tools
 - Git
